@@ -20,8 +20,8 @@ function deleteLastChar() {
     updateDisplay()
 }
 
-function sum(num) {
+/*function sum(num) {
     currentInput = '+' + num
     updateDisplay()
-}
+}*/
 
